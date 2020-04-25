@@ -1,2 +1,2 @@
 # gridlock-app
-A Steam Grid Desktop client to change grid artwork in a user's game library.
+A Steam Grid desktop client to change artwork in a user's game library.

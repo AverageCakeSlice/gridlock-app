@@ -1,0 +1,29 @@
+{
+  "name": "gridlock-app",
+  "version": "1.0.0",
+  "description": "A Steam Grid Desktop client to change grid artwork in a user's game library.",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^8.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AverageCakeSlice/gridlock-app.git"
+  },
+  "keywords": [
+    "steam",
+    "grid",
+    "desktop"
+  ],
+  "author": "Aaron Roach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AverageCakeSlice/gridlock-app/issues"
+  },
+  "homepage": "https://github.com/AverageCakeSlice/gridlock-app#readme"
+}
