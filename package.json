@@ -4,7 +4,7 @@
   "description": "A Steam Grid Desktop client to change grid artwork in a user's game library.",
   "main": "main.js",
   "dependencies": {
-    "electron": "^8.2.3"
+    "electron": "^11.5.0"
   },
   "devDependencies": {},
   "scripts": {
